@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cbsewalechicha10&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vishesh-py&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
 ---
@@ -38,11 +38,11 @@
 ## 🧮 Contribution Summary
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbsewalechicha10&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishesh-py&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cbsewalechicha10&theme=tokyonight&utcOffset=+5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vishesh-py&theme=tokyonight&utcOffset=+5.5" />
 </p>
 
 ---
@@ -50,7 +50,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/cbsewalechicha10/cbsewalechicha10/blob/output/snake.svg?raw=true" 
+  <img src="https://github.com/vishesh-py/vishesh-py/blob/output/snake.svg?raw=true" 
        alt="Snake animation" 
        style="filter: drop-shadow(0 0 5px #36BCF7) drop-shadow(0 0 10px #8A2BE2);"/>
 </div>
@@ -61,7 +61,7 @@
 
 <p align="center">
   <!-- Telegram -->
-  <a href="https://t.me/cbsewalechicha10" target="_blank">
+  <a href="https://t.me/vishesh-py" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/telegram-app.png" 
          style="background:#2CA5E0; border-radius:50%; padding:12px; box-shadow: 0 0 15px #2CA5E0;" 
          alt="Telegram"/>
