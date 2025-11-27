@@ -2,10 +2,10 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs once a day at midnight UTC
-  workflow_dispatch:       # Allows manual run
+    - cron: "0 0 * * *"  
+  workflow_dispatch:      
   push:
-    branches: [ main ]     # Run on push to main branch
+    branches: [ main ]     
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: cbsewalechicha10
+          github_user_name: vishesh-py
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
