@@ -1,6 +1,7 @@
 <!-- ============================================================ -->
 <!--                          HEADER                              -->
 <!-- ============================================================ -->
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:4F46E5,100:7C3AED&height=230&section=header&text=Vishesh%20Verma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20SaaS%20Builder&descSize=18&descAlignY=56" />
@@ -21,12 +22,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-22C55E?style=flat-square&logo=handshake&logoColor=white" alt="open to collaboration" />
 
-<br/><br/>
 
-<a href="https://t.me/vishesh-py"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=22" alt="Telegram" /></a>
-<a href="https://linkedin.com/in/visheshverma2007"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=22" alt="LinkedIn" /></a>
-<a href="https://twitter.com/VisheshVerma0"><img src="https://img.shields.io/badge/X-0F172A?style=for-the-badge&logo=x&logoColor=white&logoWidth=22" alt="X" /></a>
-<a href="https://github.com/vishesh-py"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=22" alt="GitHub" /></a>
 
 </div>
 
@@ -163,38 +159,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
       </ul>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>&#9889; AI Tools</h3>
-      <p>A toolkit of focused AI utilities that solve everyday developer and student problems.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/GPT-412991?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=flat-square&logo=robotframework&logoColor=white" />
-      </p>
-      <ul>
-        <li>Prompt-driven content &amp; code helpers</li>
-        <li>Summarizers, generators &amp; assistants</li>
-        <li>Designed to be fast and practical</li>
-        <li>Built to ship, not just to demo</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>&#128295; Open Source Utilities</h3>
-      <p>Reusable libraries and developer tools shared openly with the community.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Open%20Source-22C55E?style=flat-square&logo=opensourceinitiative&logoColor=white" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-      </p>
-      <ul>
-        <li>Reusable utilities for other developers</li>
-        <li>Clean, documented, well-tested code</li>
-        <li>Built for clarity and reuse</li>
-        <li>Maintained in public</li>
-      </ul>
-    </td>
-  </tr>
 </table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
@@ -218,9 +182,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vishesh-py&theme=react-dark&bg_color=0D1117&color=6366F1&line=7C3AED&point=ffffff&hide_border=true&area=true" alt="activity graph" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vishesh-py&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
@@ -235,9 +196,9 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 ### &#128013; Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishesh-py/vishesh-py/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishesh-py/vishesh-py/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/vishesh-py/vishesh-py/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishesh-py/vishesh-py/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishesh-py/vishesh-py/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/vishesh-py/vishesh-py/output/snake.svg" />
 </picture>
 
 </div>
@@ -337,12 +298,16 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 
 <div align="center">
 
-### &#129309; Let's Connect
+### 🤝 Let's Connect
 
 <p>Open to collaborations, open-source contributions, and building useful things together.</p>
 
 <a href="https://t.me/vishesh-py">
   <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=24" height="38" alt="Telegram" />
+</a>
+&nbsp;
+<a href="https://instagram.com/vishesh_py">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=24" height="38" alt="Instagram" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/visheshverma2007">
@@ -362,4 +327,3 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,60:4F46E5,100:0F172A&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=20&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" />
 
 </div>
-
