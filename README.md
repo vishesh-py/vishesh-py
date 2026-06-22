@@ -1,7 +1,6 @@
 <!-- ============================================================ -->
 <!--                          HEADER                              -->
 <!-- ============================================================ -->
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:4F46E5,100:7C3AED&height=230&section=header&text=Vishesh%20Verma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20SaaS%20Builder&descSize=18&descAlignY=56" />
@@ -64,7 +63,7 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td width="130"><b>Frontend</b></td>
     <td>
@@ -215,7 +214,7 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="20%"><b>AI Engineering</b></td>
     <td align="center" width="20%"><b>SaaS Architecture</b></td>
@@ -237,7 +236,7 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 
 </div>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="20%"><b>01</b><br/>Learn in Public</td>
     <td align="center" width="20%"><b>02</b><br/>Launch EduYantra v1</td>
@@ -253,7 +252,7 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 <!--              OPEN SOURCE & HIGHLIGHTS                         -->
 <!-- ============================================================ -->
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="50%" valign="top">
       <h3>&#127793; Open Source</h3>
