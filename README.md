@@ -1,6 +1,3 @@
-<!-- ============================================================ -->
-<!--                          HEADER                              -->
-<!-- ============================================================ -->
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,40:4F46E5,100:7C3AED&height=230&section=header&text=Vishesh%20Verma&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20SaaS%20Builder&descSize=18&descAlignY=56" />
@@ -27,18 +24,13 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
 
-<!-- ============================================================ -->
-<!--                           ABOUT                              -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 ### &#9889; About Me
 
 </div>
 
-I'm an **AI/ML undergraduate (B.Tech CSE)** and full stack developer who turns ideas into well-engineered, production-ready products. My work lives at the intersection of **applied AI, scalable backends, and clean user experiences** — currently focused on **EduYantra**, an AI-powered platform built to help students learn more effectively.
-
+I'm an **AI/ML undergraduate (B.Tech CSE)** and full stack developer who turns ideas into well-engineered, production-ready products. My work lives at the intersection of **applied AI, scalable backends, and clean user experiences**.
 I value clarity over cleverness, shipping over perfection, and building in the open so others can learn alongside me.
 
 ```yaml
@@ -52,10 +44,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 ```
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
-
-<!-- ============================================================ -->
-<!--                        TECH STACK                            -->
-<!-- ============================================================ -->
 
 <div align="center">
 
@@ -114,10 +102,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
 
-<!-- ============================================================ -->
-<!--                     FEATURED PROJECTS                        -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 ### &#128640; Featured Projects
@@ -162,10 +146,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
 
-<!-- ============================================================ -->
-<!--                     GITHUB ANALYTICS                         -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 ### &#128202; GitHub Analytics
@@ -186,10 +166,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
 
-<!-- ============================================================ -->
-<!--                   CONTRIBUTION SNAKE                         -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 ### &#128013; Contribution Graph
@@ -203,10 +179,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
-
-<!-- ============================================================ -->
-<!--                     CURRENT FOCUS                            -->
-<!-- ============================================================ -->
 
 <div align="center">
 
@@ -226,10 +198,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                        ROADMAP                               -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 ### &#128506; Roadmap
@@ -247,10 +215,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 </table>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
-
-<!-- ============================================================ -->
-<!--              OPEN SOURCE & HIGHLIGHTS                         -->
-<!-- ============================================================ -->
 
 <table width="100%" align="center">
   <tr>
@@ -277,10 +241,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
 
-<!-- ============================================================ -->
-<!--                 ENGINEERING PRINCIPLES                       -->
-<!-- ============================================================ -->
-
 <div align="center">
 
 ### &#128161; Engineering Principles
@@ -290,10 +250,6 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
-
-<!-- ============================================================ -->
-<!--                        CONNECT                               -->
-<!-- ============================================================ -->
 
 <div align="center">
 
