@@ -144,6 +144,12 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
   </tr>
 </table>
 
+<div align="center">
+  <a href="https://github.com/vishesh-py?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20all%20projects-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="explore all projects" />
+  </a>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:7C3AED&height=3" />
 
 <div align="center">
@@ -151,7 +157,7 @@ mindset:    "Build with intent. Refine with discipline. Ship in public."
 ### &#128202; GitHub Analytics
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vishesh-py&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=7C3AED&text_color=C9D1D9" alt="github stats" />
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=vishesh-py&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=7C3AED&currStreakLabel=6366F1" alt="streak stats" />
+<img height="170em" src="https://streak-stats.demolab.com?user=vishesh-py&theme=react&hide_border=true&background=0D1117&ring=6366F1&fire=7C3AED&currStreakLabel=6366F1" alt="streak stats" />
 
 <br/>
 
